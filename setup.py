@@ -5,7 +5,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="utilz",  # New package name
+    name="utilz",
     version="0.0.1",
     packages=find_packages(),
     description="A collection of utility functions for various tasks.",
@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Souvik Das",
     author_email="souvikdas.dev@gmail.com",
-    url="https://github.com/souvikdas-dev/utilz",  # Update with your repo URL
+    url="https://github.com/souvikdas-dev/utilz",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
